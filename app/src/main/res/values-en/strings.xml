@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobileprogramming2023FOSZ</string>
+    <string name="iranyitoszam">Zip code</string>
+    <string name="varos">City</string>
+    <string name="utca">Street</string>
+    <string name="hazszam">House number</string>
+    <string name="kuldes">Send</string>
+    <string name="Kamera">Camera</string>
+    <string name="serviceGomb">Employees</string>
+    <string name="id">Id</string>
+    <string name="keresztNev">First name</string>
+    <string name="vezetekNev">Last name</string>
+    <string name="fizetes">Salary</string>
+
+</resources>

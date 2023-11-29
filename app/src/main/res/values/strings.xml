@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobilprogramozas2023FOSZ</string>
+    <string name="iranyitoszam">Irányítószám</string>
+    <string name="varos">Város</string>
+    <string name="utca">Utca</string>
+    <string name="hazszam">Házszám</string>
+    <string name="kuldes">Küldés</string>
+    <string name="Kamera">Kamera</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="serviceGomb">Dolgozók</string>
+    <string name="id">Azonosító</string>
+    <string name="vezetekNev">Vezetéknév</string>
+    <string name="keresztNev">Keresztnév</string>
+    <string name="fizetes">Fizetés</string>
+</resources>
